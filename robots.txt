@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dalibormaksimovic.github.io/DaliborMaksimovicVD2025/sitemap.xml
